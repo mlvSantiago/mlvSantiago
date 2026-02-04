@@ -141,7 +141,7 @@ Tenho interesse especial em front-end, usabilidade, apps móveis, integração d
 <img 
     align="left" 
     alt="stats"
-    heigth="200px" 
+    heigth="200" 
     style="padding-right: 10px;margin-bottom: 40px" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlvSantiago&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
 />
